@@ -1,0 +1,1 @@
+export const API_HOST = 'http://lifestealer86.ru/api-shop';

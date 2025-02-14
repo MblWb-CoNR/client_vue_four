@@ -1,4 +1,6 @@
 const API = process.env.VUE_APP_API;
+console.log('API URL:', API);
+
 
 export const loginRequest = (user) => {
     return new Promise((resolve, reject) => {
